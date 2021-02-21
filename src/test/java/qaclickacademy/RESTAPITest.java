@@ -25,4 +25,9 @@ public class RESTAPITest {
 	{
 		System.out.println("indiaTwitter");	
 	}
+	@Test
+	public void USATwitter()
+	{
+		System.out.println("USATwitter");	
+	}
 }
