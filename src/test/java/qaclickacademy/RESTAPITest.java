@@ -20,4 +20,9 @@ public class RESTAPITest {
 	{
 		System.out.println("homeTwitter");	
 	}
+	@Test
+	public void indiaTwitter()
+	{
+		System.out.println("indiaTwitter");	
+	}
 }
